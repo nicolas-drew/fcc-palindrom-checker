@@ -10,7 +10,7 @@ This palindrome checker allows users to input text and check whether it is a **p
 Build an app that is functionally similar to  
 👉 [https://palindrome-checker.freecodecamp.rocks](https://palindrome-checker.freecodecamp.rocks)
 
-### 📬 Contact
+## 📬 Contact
 If you have any questions, feedback, or just want to say hi, feel free to reach out:
 
 GitHub: [Nico.D](https://github.com/nicolas-drew)
