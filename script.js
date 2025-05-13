@@ -10,6 +10,14 @@ function palindrome(button) {
     alert("Please input a value");
     return;
   }
+  if (isPalindrome(text)) {
+    result.innerText = `${text} is a palindrome.`;
+  } else result.innerText = `${text} is not a palindrome.`;
 }
 
-function isPalindrome() {}
+function isPalindrome(text) {
+  const lower = ;
+  const cleaned = ;
+  const reversed = ;
+
+}
