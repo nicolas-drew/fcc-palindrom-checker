@@ -11,8 +11,8 @@ function palindrome() {
     return;
   }
   if (isPalindrome(text)) {
-    result.innerText = `${text} is a palindrome.`;
-  } else result.innerText = `${text} is not a palindrome.`;
+    result.innerText = `"${text}" is a palindrome.`;
+  } else result.innerText = `"${text}" is not a palindrome.`;
 }
 
 function isPalindrome(text) {
